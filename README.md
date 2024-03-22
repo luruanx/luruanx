@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 ## Technologies I'm Studying:   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luruanx&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luruanx&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luruanx&anuraghazra&show_icons=true&theme=swift)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luruanx&theme=swift&hide_border=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luruanx&anuraghazra&show_icons=true&theme=blue_navy)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luruanx&theme=blue_navy&hide_border=false)
 
 
 
