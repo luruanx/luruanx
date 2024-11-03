@@ -31,10 +31,11 @@ Here are some ideas to get you started:
 
 ## Technologies I'm Studying:  
 ## [Clique aqui e veja meu plano de estudos FullStack](https://github.com/luruanx/Estudos-Full-Stack) <br><br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div style="display: inline_block">
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,html,css,python,mysql,php,figma,pr)](https://skillicons.dev)
+</div>
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luruanx&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luruanx&anuraghazra&show_icons=true&theme=blue_navy)
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luruanx&theme=blue_navy&hide_border=false)
+<br> <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luruanx&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
