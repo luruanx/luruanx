@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![capa linkedin](https://github.com/luruanx/luruanx/assets/155588491/f7bc41ad-deab-4535-b06d-b4e588cad0e0)
+![Capa linkedin](https://github.com/user-attachments/assets/4f2aafa0-a2dd-4f9a-8b21-30dcddb4c7b1)
 
 
 
