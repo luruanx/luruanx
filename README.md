@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  
-![Capa linkedin](https://github.com/user-attachments/assets/4f2aafa0-a2dd-4f9a-8b21-30dcddb4c7b1)
-
-
 
 <p align="center">
 <!--   <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif" width="600" alt="Gamer Room">  -->
