@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 ## [Clique aqui e veja meu plano de estudos FullStack](https://github.com/luruanx/Estudos-Full-Stack) <br><br>
 <div style="display: inline_block">
   
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,bootstrap,python,mysql,php,figma,pr)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,tailwind,ts,nextjs,react,python,mysql,php,figma,pr)](https://skillicons.dev)
 </div>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luruanx&theme=blue_navy&hide_border=false)
 <br> <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luruanx&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
